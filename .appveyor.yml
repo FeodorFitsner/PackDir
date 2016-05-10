@@ -1,5 +1,6 @@
 build: off
 version: "{build}"
+image: Visual Studio 2015 - GCE
 environment:
   global:
     APPVEYOR_BUILD_AGENT_CREATE_NO_WINDOW: true
